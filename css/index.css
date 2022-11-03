@@ -1,0 +1,29 @@
+#ladoEsquerdo{
+    width: 40%;
+    float: left;
+    border: 2px solid black;
+    font-size: 22px;
+    text-align: center;
+}
+
+.redondo img{
+    border-radius: 50%;
+    border: solid black 2px;
+    margin: auto;
+    height: 200px;
+    width: 55%;
+    margin-top: 30px;
+}
+
+#ladoDireito{
+    width: 40%;
+    float: left;
+    border: 2px solid black;
+    text-align: center;
+}
+ 
+h4{
+    margin-top: 100px;
+}
+
+
